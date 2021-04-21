@@ -1,0 +1,34 @@
+.worldStats-box{
+    border-radius: 4px;
+    width: 20%;
+    display: inline-block;
+    margin: auto;
+    margin: 3%;
+    color: white;
+}
+
+.box-global{
+    background-color: rgb(48, 115, 202);
+}
+
+
+.about{
+    font-size:large;
+    margin: 0;
+    padding: 0;
+}
+
+.totalNumbers{
+    font-size:large;
+}
+
+
+/* 
+.totalNumbers{
+    font-size: 15px;
+    color: white;
+    font-weight: 700 !important;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;     
+    text-align: center;
+} */

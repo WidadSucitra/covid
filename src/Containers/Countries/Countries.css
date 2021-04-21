@@ -1,0 +1,49 @@
+.countries-stats{
+    width: 100%;
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+h2{
+    font-weight: 700 !important;
+    text-align: center;
+    color: rgb(48, 115, 202);
+    font-family: 'Poppins', sans-serif;
+    padding-top: 80px;
+    letter-spacing: 4px;
+}
+
+p.lastupdate{
+    font-size: large;
+    color:white ;
+    font-weight: bold;
+    margin-top: -5%;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 4px;
+    margin-bottom: 100px;
+}
+
+.container{
+    width: 70%;
+    padding-bottom: 100px;
+}
+
+.box{
+    margin-top: 50px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.container .card-body{
+    padding: 0;
+}
+
+.confirm{
+    background-color: rgb(255, 208, 0) ;
+}
+.recovered{
+    background-color: green;
+}
+.deaths{
+    background-color: red;
+}
